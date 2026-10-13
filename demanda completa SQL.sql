@@ -18,7 +18,7 @@ INSERT INTO pedidos (pedidos, regiao, sla, dias) VALUES
 (115, 'Centro-Oeste', 'No prazo', 2),
 (116, 'Centro-Oeste', 'No prazo', 3);
 	
-persona	
+Filtros	
 	SELECT regiao,
 	
 		count(*) AS todos_pedidos,
